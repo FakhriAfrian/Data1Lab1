@@ -1,2 +1,2 @@
-# Data1Lab1
+# Praktikum 3
 Belajar1

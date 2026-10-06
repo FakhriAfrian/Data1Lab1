@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>312410074-Fakhri Afrian-Teknik Informatika</title>
+</head>
+<body>
+    <h1>Halo Dunia - Saya Fakhri Afrian</h1>
+    <p>
+        Saya sedang belajar
+    </p>
+    <p>312410074 - Fakhri Afrian - Teknik Informatika - Univerrsitas Pelita Bangsa</p>
+    <a href="https://github.com/FakhriAfrian/Data1Lab1.git">Kunjungi Website</a>
+<center>
+    <td><img src="fotofakhri123.jpeg" width="300"
+        lt="Foto profil mahasiswa"
+ title="Foto Profil Mahasiswa"></td>
+</center>
+<p>Nama = Fakhri Afrian</p>
+<p>Umur = 24 Tahun</p>
+<p>Jurusan = Teknik Permesinan</p>
+<p>Sekolah = SMK Mitra Industri MM200</p>
+</p>
 
+<!-- Ini adalah paragraf kedua -->
+<p>My Experience</P>
+    <p>2022-2023 - PT.Denso Indonesia Fajar Plan - Operator Welding Machine</p>
+    <p>2023-Now - PT.LG Electronics R&D Center - Process Engineer
+</p>
+<a href="https://www.google.com">Google</a>
+<ul>
+<p>Planning</p>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JavaScript</li>
+</ul>
+<h2>Target Belajar</h2>
+<ol>
+ <li>Menguasai HTML</li>
+ <li>Menguasai CSS</li>
+ <li>Menguasai JavaScript</li>
+</ol>
+<!-- Notes -->
+</body>
+</html>
